@@ -33,6 +33,7 @@ public class Crear extends javax.swing.JFrame {
         portada = new File(f.getAbsolutePath() + "\\cerrar.png");
         //cambio en rama develop
         
+        
     }
 
     /**
