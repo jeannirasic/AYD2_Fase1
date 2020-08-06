@@ -29,6 +29,7 @@ public class Reproductor {
     public static int playListSeleccionada = 0;
     public static int contadorPlaylists = -1;
     
+    //Cambios xdxd
     
     public static void main(String args[]) {
         lista.add(new Usuario("Jeannira Sic", "jeannira","123")); //Eliminar esto despues
